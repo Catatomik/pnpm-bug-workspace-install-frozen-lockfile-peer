@@ -1,3 +1,4 @@
 {
-  "name": "pnpm-bug-workspace-install-frozen-lockfile-peer"
+  "name": "pnpm-bug-workspace-install-frozen-lockfile-peer",
+  "packageManager": "pnpm@10.13.1"
 }
