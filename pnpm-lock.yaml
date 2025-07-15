@@ -1,0 +1,26 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+  injectWorkspacePackages: true
+
+importers:
+
+  .: {}
+
+  package:
+    dependencies:
+      raptor:
+        specifier: github:cata-dev/raptor
+        version: https://codeload.github.com/cata-dev/raptor/tar.gz/bf489276c24a2c8592ccc97a944cb9cb4fb0110e
+
+packages:
+
+  raptor@https://codeload.github.com/cata-dev/raptor/tar.gz/bf489276c24a2c8592ccc97a944cb9cb4fb0110e:
+    resolution: {tarball: https://codeload.github.com/cata-dev/raptor/tar.gz/bf489276c24a2c8592ccc97a944cb9cb4fb0110e}
+    version: 0.2.0
+
+snapshots:
+
+  raptor@https://codeload.github.com/cata-dev/raptor/tar.gz/bf489276c24a2c8592ccc97a944cb9cb4fb0110e: {}
